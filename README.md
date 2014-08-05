@@ -1,6 +1,8 @@
 autoaudioswitcher
 =================
 
+![3D_board_rev0](https://raw.githubusercontent.com/zehome/autoaudioswitcher/master/REV0_IMG/top.jpg)
+
 Introduction
 ------------
 With vintage amplifiers, you have limited input switching capabilities. And they are all manual.
