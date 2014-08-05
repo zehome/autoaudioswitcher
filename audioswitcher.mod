@@ -1,0 +1,214 @@
+PCBNEW-LibModule-V1  mar. 05 août 2014 13:35:47 CEST
+# encoding utf-8
+Units mm
+$INDEX
+3.5MMJACK
+35MMJACK
+C1.5V4
+C1V5
+$EndINDEX
+$MODULE 3.5MMJACK
+Po 0 0 0 15 53C41201 00000000 ~~
+Li 3.5MMJACK
+Sc 0
+AR 
+Op 0 0 0
+T0 1 0 1 1 900 0.15 N I 21 N "3.5MMJACK"
+T1 8 10 1 1 0 0.15 N V 21 N "JACK**"
+DS 11 -9 15 -9 0.15 21
+DS 15 -9 15 9 0.15 21
+DS 15 9 11 9 0.15 21
+DS -1 3 0 3 0.15 21
+DS -4 -3 -3 -3 0.15 21
+DS 0 -3 -3 -3 0.15 21
+DS -4 -3 -4 3 0.15 21
+DS -4 3 -1 3 0.15 21
+DS 0 -9 11 -9 0.15 21
+DS 11 -9 11 9 0.15 21
+DS 11 9 0 9 0.15 21
+DS 0 9 0 -9 0.15 21
+$PAD
+Sh "1" O 1.5 0.8 0 0 900
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "4" O 1.5 0.8 0 0 0
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 5
+$EndPAD
+$PAD
+Sh "2" O 1.5 0.8 0 0 0
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 2.5
+$EndPAD
+$PAD
+Sh "3" O 1.5 0.8 0 0 0
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -2.5
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4 -5
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4 5
+$EndPAD
+$PAD
+Sh "5" O 1.5 0.8 0 0 0
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -5
+$EndPAD
+$EndMODULE 3.5MMJACK
+$MODULE 35MMJACK
+Po 0 0 0 15 53C41201 00000000 ~~
+Li 35MMJACK
+Sc 0
+AR 
+Op 0 0 0
+T0 1 0 1 1 900 0.15 N I 21 N "3.5MMJACK"
+T1 8 10 1 1 0 0.15 N V 21 N "JACK**"
+DS 11 -9 15 -9 0.15 21
+DS 15 -9 15 9 0.15 21
+DS 15 9 11 9 0.15 21
+DS -1 3 0 3 0.15 21
+DS -4 -3 -3 -3 0.15 21
+DS 0 -3 -3 -3 0.15 21
+DS -4 -3 -4 3 0.15 21
+DS -4 3 -1 3 0.15 21
+DS 0 -9 11 -9 0.15 21
+DS 11 -9 11 9 0.15 21
+DS 11 9 0 9 0.15 21
+DS 0 9 0 -9 0.15 21
+$PAD
+Sh "1" O 1.5 0.8 0 0 900
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "4" O 1.5 0.8 0 0 0
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 5
+$EndPAD
+$PAD
+Sh "2" O 1.5 0.8 0 0 0
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 2.5
+$EndPAD
+$PAD
+Sh "3" O 1.5 0.8 0 0 0
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -2.5
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4 -5
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4 5
+$EndPAD
+$PAD
+Sh "5" O 1.5 0.8 0 0 0
+Dr 1.2 0 0 O 1.2 0.5
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -5
+$EndPAD
+$EndMODULE 35MMJACK
+$MODULE C1.5V4
+Po 0 0 0 15 53E0C067 00000000 ~~
+Li C1.5V4
+Sc 0
+AR 
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "C1.5V4"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+T2 -0.8 -1.2 1 1 0 0.15 N V 21 N "+"
+DC 0 0 2 0.3 0.15 21
+$PAD
+Sh "1" R 0.8 0.8 0 0 0
+Dr 0.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.75 0
+$EndPAD
+$PAD
+Sh "2" C 0.8 0.8 0 0 0
+Dr 0.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.75 0
+$EndPAD
+$EndMODULE C1.5V4
+$MODULE C1V5
+Po 0 0 0 15 53E0C186 00000000 ~~
+Li C1V5
+Sc 0
+AR 
+Op 0 0 0
+T0 0 3.4 1 1 0 0.15 N V 21 N "C1V5"
+T1 0 -3.5 1 1 0 0.15 N V 21 N "C**"
+T2 -1 1.5 1 1 0 0.15 N V 21 N "+"
+DC 0 0 2.5 0 0.15 21
+$PAD
+Sh "1" R 0.8 0.8 0 0 0
+Dr 0.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "2" C 0.8 0.8 0 0 0
+Dr 0.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$EndMODULE C1V5
+$EndLIBRARY
