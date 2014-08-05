@@ -10,6 +10,8 @@ This projects aims to solve this problem.
 
 I have an old kenwood KA-4002 (http://www.hifivintage.eu/product.php?id_product=476) which I love.
 
+![KA-4002](http://www.hifivintage.eu/img/p/2/7/8/9/2789-large.jpg)
+
 So, my solution to this problem, automatic audio input switcher.
 Basically, the system will detect which audio input has a signal, and switch to it using a solid state MUX.
 
